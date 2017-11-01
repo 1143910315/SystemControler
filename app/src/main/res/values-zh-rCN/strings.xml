@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brightness">亮度：</string>
+    <string name="app_name">系统调节器</string>
+    <string name="auto_adjust_brightness">自动调节亮度</string>
+    <string name="brightness_info" >系统亮度是%d，当前应用的亮度是%d。</string>
+    <string name="confirm">确　认</string>
+    <string name="get_auto_brightness_error">无法获取系统信息。</string>
+</resources>

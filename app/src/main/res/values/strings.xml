@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SystemControler</string>
+    <string name="brightness">Brightness:</string>
+    <string name="auto_adjust_brightness">Auto adjust brightness</string>
+    <string name="brightness_info">The system brightness is %d, and the current application brightness is %d.</string>
+    <string name="confirm">confirm</string>
+    <string name="get_auto_brightness_error">Failed to obtain system information.</string>
+</resources>
